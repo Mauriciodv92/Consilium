@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164718166744",
+    "project_id": "cards-8f99f",
+    "storage_bucket": "cards-8f99f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164718166744:android:812c7ec9bccbeda6ffcdad",
+        "android_client_info": {
+          "package_name": "com.mauricio.feedcards"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmzNlXRhDvyHjtV2BbDGaSB3c-73AUYc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
